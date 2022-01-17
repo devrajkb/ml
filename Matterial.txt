@@ -1,0 +1,17 @@
+Textbook
+
+The course is self-contained, however, we strongly encourage the student to acquire the book as a good reference text:
+
+A. Géron, Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. 2nd ed., O’Reilly, 2019.
+Other recommended textbooks include:
+
+C. Bishop, Pattern Recognition and Machine Learning, Springer, 2007.
+ G. James, D. Witten, T. Hastie, and R. Tibshirani, An Introduction to Statistical Learning: with Applications in R. Springer Publishing Company, Incorporated, 2014.
+---------
+https://wiki.python.org/moin/BeginnersGuide
+https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=learnpython_com&utm_campaign=learnpython_tutorials
+https://www.tutorialspoint.com/python_data_science/index.htm
+https://www.javatpoint.com/machine-learning
+--
+Pandas
+https://www.journaldev.com/29055/python-pandas-module-tutorial

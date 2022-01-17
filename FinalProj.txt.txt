@@ -1,0 +1,38 @@
+Description
+Inlämningsdatum 16 jan av 23.59 Poäng 0 Lämnar in en filuppladdning
+Introduction
+
+In the final project, you have the opportunity to put into practice the basic knowledge acquired during the course. You are intended to apply machine learning algorithms to a real-world problem. You can choose one of two types of projects: either you pick your own problem and acquire your own dataset, or you pick one of the suggested datasets below, and, on the basis of your picked dataset, you formulate a problem to be solved:
+
+https://archive.ics.uci.edu/ml/datasets/Apartment+for+rent+classified (Länkar till en externa sida.)
+https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset (Länkar till en externa sida.)
+In contrast to the assignments, you are this time expected to decide on your own what is the most appropriate way to apply machine learning to your selected project.
+
+Project steps:
+
+ Formulate your problem, and if you have decided to use your own dataset then provide a description of your dataset.
+
+Data analysis (optional):
+
+Use visualization to help out with the data analysis, e.g., correlation matrix, scatter plot, histogram, etc.
+Do you need to preprocess all or part of your data? What is missing in the data and how do you deal with that? Where are the outliers and why should you care? 
+
+Data loading and splitting: Prepare training data, validation data, and test data (if needed).
+
+Implement a machine learning solution.
+Explore how changes of the parameter values in your selected machine learning algorithm affect the result.
+
+Apply some techniques to improve the model, e.g., feature selection (optional).
+
+If you decide to try to solve your problem with more than one machine learning algorithm, then compare the results from the different algorithms (optional).
+
+Final analysis and discussion.
+
+What's to hand in?
+
+A Jupyter notebook that contains your commented solution. During the demo, you should be able to explain your solution to the instructor.
+
+ 
+
+Good Luck!
+
